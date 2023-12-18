@@ -1,0 +1,115 @@
+2023-09-21 20:11:04,598,598 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-21 20:11:05,250,250 INFO     [Load_Data.py:23] Connected
+
+2023-09-21 20:11:05,344,344 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-21 20:14:15,086,086 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-21 20:14:15,697,697 INFO     [Load_Data.py:23] Connected
+
+2023-09-21 20:14:15,790,790 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-21 20:16:29,275,275 INFO     [Load_Data.py:38] Fetched
+
+2023-09-21 20:16:29,275,275 INFO     [Transformation.py:7] Now started Transformation
+2023-09-21 20:24:18,157,157 INFO     [Transformation.py:59] Transformation successful, file has been saved
+2023-09-22 10:59:26,150,150 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 11:00:28,423,423 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 11:00:29,137,137 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 11:00:29,231,231 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 11:01:58,476,476 INFO     [Load_Data.py:38] Fetched
+
+2023-09-22 11:01:58,476,476 INFO     [Transformation.py:7] Now started Transformation
+2023-09-22 11:09:25,479,479 INFO     [Transformation.py:56] Transformation successful, file has been saved
+2023-09-22 11:29:38,720,720 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 11:29:39,518,518 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 11:29:39,641,641 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 11:30:36,469,469 INFO     [Load_Data.py:38] Fetched
+
+2023-09-22 11:30:36,469,469 INFO     [Transformation.py:7] Now started Transformation
+2023-09-22 11:32:49,752,752 INFO     [Transformation.py:56] Transformation successful, file has been saved
+2023-09-22 14:31:35,361,361 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 14:31:36,106,106 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 14:31:36,246,246 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 14:33:24,616,616 INFO     [Load_Data.py:38] Fetched
+
+2023-09-22 14:33:24,616,616 INFO     [Transformation.py:7] Now started Transformation
+2023-09-22 14:33:28,722,722 INFO     [Transformation.py:56] Transformation successful, file has been saved
+2023-09-22 14:53:45,524,524 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 14:53:46,167,167 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 14:53:46,262,262 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 14:54:54,693,693 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 14:54:55,320,320 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 14:54:55,415,415 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 14:55:52,820,820 INFO     [Load_Data.py:38] Fetched
+
+2023-09-22 14:55:52,820,820 INFO     [Transformation.py:7] Now started Transformation
+2023-09-22 14:56:15,048,048 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 14:56:15,675,675 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 14:56:15,785,785 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 14:57:11,427,427 INFO     [Load_Data.py:38] Fetched
+
+2023-09-22 14:57:11,427,427 INFO     [Transformation.py:7] Now started Transformation
+2023-09-22 14:57:15,542,542 INFO     [Transformation.py:56] Transformation successful, file has been saved
+2023-09-22 15:52:51,516,516 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 15:52:52,580,580 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 15:52:52,681,681 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 15:54:27,195,195 INFO     [Load_Data.py:38] Fetched
+
+2023-09-22 15:54:27,196,196 INFO     [Transformation.py:7] Now started Transformation
+2023-09-22 15:54:36,725,725 INFO     [Transformation.py:56] Transformation successful, file has been saved
+2023-09-22 16:07:25,404,404 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-09-22 16:07:26,062,062 INFO     [Load_Data.py:23] Connected
+
+2023-09-22 16:07:26,156,156 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-09-22 16:09:07,637,637 INFO     [Load_Data.py:38] Fetched
+
+2023-09-22 16:09:07,637,637 INFO     [Transformation.py:7] Now started Transformation
+2023-09-22 16:09:26,743,743 INFO     [Transformation.py:56] Transformation successful, file has been saved
+2023-10-05 14:15:30,028,028 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-10-05 14:15:35,211,211 INFO     [Load_Data.py:23] Connected
+
+2023-10-05 14:15:35,309,309 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-10-05 14:28:54,118,118 INFO     [Load_Data.py:41] Fetched
+
+2023-10-05 14:28:54,142,142 INFO     [Transformation.py:7] Now started Transformation
+2023-10-05 14:28:57,237,237 INFO     [Transformation.py:55] Transformation successful, file has been saved
+2023-10-09 18:16:53,775,775 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-10-09 18:17:14,225,225 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-10-09 18:17:14,808,808 INFO     [Load_Data.py:23] Connected
+
+2023-10-09 18:17:14,902,902 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-10-09 18:18:18,843,843 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-10-09 18:18:19,402,402 INFO     [Load_Data.py:23] Connected
+
+2023-10-09 18:18:19,480,480 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-10-09 18:18:43,423,423 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-10-09 18:18:48,791,791 INFO     [Load_Data.py:13] 
+Connecting to Prod Replica Database...
+2023-10-09 18:18:53,298,298 INFO     [Load_Data.py:23] Connected
+
+2023-10-09 18:18:54,004,004 INFO     [Load_Data.py:33] Fetching mysql data...
+2023-10-09 18:19:59,480,480 INFO     [Load_Data.py:41] Fetched
+
+2023-10-09 18:19:59,480,480 INFO     [Transformation.py:7] Now started Transformation
+2023-10-09 18:24:42,964,964 INFO     [Transformation.py:16] Transformation successful, file has been saved
