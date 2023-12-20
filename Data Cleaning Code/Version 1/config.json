@@ -1,0 +1,9 @@
+{
+    "SKU File you want to clean" : "UNV.SKU_data (2)v1.xlsx",
+    "SKU File sheet name" : "Sheet1",
+    "SKU File Column name" : "ProductNamee",
+    "Company Brand Master File" : "CB_MD-2023-05-11.xlsx",
+    "Category Rule1 File" : "Category Rule 1.xlsx",
+    "Barcoded SKU Master Data File" : "BC-SKU-MD 2023-05-03 (23515).xlsx",
+    "File name to be saved" : "testing_v3.xlsx"
+}
